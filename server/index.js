@@ -54,7 +54,7 @@ const upload = multer({
 //Create once api key and paste below
 
 const configuration = new Configuration({
-    apiKey: "Enter your credentials",
+    apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
