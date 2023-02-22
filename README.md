@@ -3,6 +3,7 @@ ResuMate is a personal project that uses the power of AI to create a smart resum
 competitive job market. With Resumate, you can say goodbye to the frustration of crafting generic resumes and hello 
 to resumes that showcase your unique talents, skills, and experience.
 
+https://user-images.githubusercontent.com/107169043/220721511-9dcc3b66-3690-404f-b632-b3300d052a77.mp4
 
 ## **Key Features** 🌟
 
