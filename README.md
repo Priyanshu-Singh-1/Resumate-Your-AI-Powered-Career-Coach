@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/107169043/220721511-9dcc3b66-3690-404f
 ## **Key Features** 🌟
 
 - [x] Personalized resumes crafted by OpenAI's text-davinci-003 model
-- [x] Tailored resumes that get you noticed
+- [x] Tailored resumes that get you noticed  
 - [x] Smart resume builder for a competitive job market
 - [x] Easy-to-use UI for a hassle-free resume building experience
 - [x] User-friendly and intuitive interface that requires no technical skills to operate
