@@ -30,7 +30,7 @@ Plus, with its intuitive user interface and powerful AI technology, Resumate mak
 
 ## **Installation**
 
-To use Resumate, follow these simple steps:
+To use Resumate, follow these simple steps: 
 
 - Clone the repository to your local machine
 - Install dependencies using npm install
