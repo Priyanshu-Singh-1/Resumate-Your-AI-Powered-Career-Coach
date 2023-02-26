@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/107169043/220721511-9dcc3b66-3690-404f
 ## **How it Works** 🤠
 
 ResuMate uses cutting-edge AI (Open AI API) technology to analyze your input and generate an engaging and  
-unique resume that sets you apart from the competition. All you need to do is enter your personal details, 
+unique resume that sets you apart from the competition. All you need to do is enter your personal details,  
 work experience, education, skills, and other relevant information in Resumate's easy-to-use UI, and let 
 the AI-powered system take care of the rest. The end result is a resume that captures your individuality 
 and makes you stand out to potential employers.
