@@ -5,7 +5,7 @@ to resumes that showcase your unique talents, skills, and experience.
 
 https://user-images.githubusercontent.com/107169043/220721511-9dcc3b66-3690-404f-b632-b3300d052a77.mp4
 
-## **Key Features** 🌟  
+## **Key Features** 🌟   
  
 - [x] Personalized resumes crafted by OpenAI's text-davinci-003 model
 - [x] Tailored resumes that get you noticed  
