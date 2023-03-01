@@ -52,6 +52,6 @@ axios, multer, react-to-print
 Contributions to Resumate are always welcome! 😻
 If you have any suggestions or bug reports, please submit a pull request or open an issue on GitHub.
 
-## **About the Author**
+## **About the Author** 
 
 This is a personal project created by **Priyanshu Singh**. I hope Resumate helps you create a standout resume and land your dream job!
